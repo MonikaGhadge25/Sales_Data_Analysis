@@ -25,5 +25,4 @@ Standard Class is the most used shipping mode.
 [Superstore Dataset – Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 
-![Uploading superstore_dashboard.png…]()
 
