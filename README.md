@@ -9,9 +9,11 @@ Analyze Superstore sales data to identify trends, top-performing regions, and th
 - Google Colab
 
 ### 📊 KPIs
-- Total Sales, Total Profit, Profit Margin
-- Monthly Sales Growth
-- Top Products and Regions
+- Sales & Profit by Category
+- Sales by Region
+- Top 10 States by Profit
+- Discount vs Profit Scatter Plot
+- Correlation Heatmap
 
 ### 💡 Insights
 Technology category has the highest sales and profit.
